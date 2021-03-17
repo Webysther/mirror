@@ -11,7 +11,7 @@
         "ext-zlib":"*",
         "ext-json": "*",
         "guzzlehttp/guzzle": "~6",
-        "vlucas/phpdotenv": "~4",
+        "vlucas/phpdotenv": "~5",
         "symfony/console": "~4",
         "sebastian/version": "~2",
         "nesbot/carbon": "~2",
